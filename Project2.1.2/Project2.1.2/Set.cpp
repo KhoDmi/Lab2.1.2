@@ -19,11 +19,14 @@ void Examenator::setMark(Exam& e)
 {
 	do
 	{
-		cout << "Input mark" << endl;
-		cin.clear();
-		cin.ignore(numeric_limits<streamsize>::max(), '\n');
-		cin >> e.mark;
-	} while (cin.fail());
+		do
+		{
+			cout << "Input mark" << endl;
+			cin.clear();
+			cin.ignore(numeric_limits<streamsize>::max(), '\n');
+			cin >> e.mark;
+		} while (cin.fail());
+	} while (e.mark<0);
 }
 
 Examenator::~Examenator()
