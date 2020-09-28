@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Lenovo\source\repos\Project2.1.2\Project2.1.2\Source.cpp(1,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Lenovo\source\repos\Project2.1.2\Project2.1.2\Source.cpp(2,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Lenovo\source\repos\Project2.1.2\Project2.1.2\Source.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Project2.1.2.vcxproj -> C:\Users\Lenovo\source\repos\Project2.1.2\Debug\Project2.1.2.exe
